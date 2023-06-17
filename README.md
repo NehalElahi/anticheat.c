@@ -60,10 +60,3 @@ To run timing benchmarks (For Multithreaded version only):
 ```
 ./timeBenchmark -v
 ```
-# Look at this Nehal guy 💀
-
-![image](https://github.com/PoromKamal/anticheat.c/assets/62628923/90d31fe8-df13-48a8-ada7-fc6240060856)
-
-Bro is in my backpack 😭
-
-<sub><sup>jk proud of you lil bro <3 </sup></sub>
